@@ -1,0 +1,15 @@
+www.google.com
+www.facebook.com
+www.youtube.com
+https://www.alexa.com
+https://docs.google.com
+www.opengenus.org
+https://stackoverflow.com
+https://www.kaggle.com
+https://www.blackhatworld.com
+http://search.gov
+http://www.abcnews.com
+http://www.wikipedia.org
+www.acer.com
+www.99acres.com
+https://www.bookmyshow.com
